@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247506027549",
+    "project_id": "flutter-39755",
+    "storage_bucket": "flutter-39755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247506027549:android:7b45167501a74c6bbb72f4",
+        "android_client_info": {
+          "package_name": "com.example.ashtar_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0UkPXNkPwrTWB8UWVSAweRrsv1kNOPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
